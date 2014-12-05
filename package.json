@@ -1,0 +1,28 @@
+{
+  "name": "sfdc-messaging",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/troyconquer/sfdc-messaging.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/troyconquer/sfdc-messaging/issues"
+  },
+  "homepage": "https://github.com/troyconquer/sfdc-messaging",
+  "dependencies": {
+    "express": "^4.10.4",
+    "mocha": "^2.0.1",
+    "should": "^4.3.0",
+    "xml2js": "^0.4.4"
+  }
+}
